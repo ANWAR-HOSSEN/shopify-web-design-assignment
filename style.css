@@ -1,0 +1,125 @@
+@font-face {
+  font-family: my-font;
+  src: url(Gagalin-Regular.otf);
+}
+
+.my-font {
+  font-family: my-font;
+}
+
+/* 
+
+.header{
+ font-style: background-color: brown ;
+ display : flex;
+ flex-direction : row;
+align-items: center;
+justify-content: center;
+font-weight: bold;
+padding-top: 18px;
+
+}
+
+.header img {
+  width: 30px;
+}
+h2 {
+ color: red;
+ text-align: center;
+ font-size: 30px;
+
+}
+h1 {
+  font-weight : bold;
+  margin : 8px;
+  font-size : 50px ;
+  text-align : center ;
+}
+.review{
+  font-size: 20px;
+  padding: 5px;
+}
+.text-body {
+  font-size: 25px ;
+  line-height: 30px;
+  padding: 20px 40px ;
+}
+
+.btn{
+      padding: 20px 100px;
+      background-color: #0097E1;
+      text-align: center;
+      
+      justify-content: center;
+      border-radius: 10px;
+      color: white;
+      font-weight: bold;
+      font-size: large;
+      margin: 15px;
+
+}
+
+.pass-try{
+ padding: 20px 100px;
+      
+      text-align: center;
+      
+     
+      font-weight: bold;
+      font-size:large;
+}
+.trustpilot{
+   display: flex;
+    font-size: 20px;
+    padding: 15px;
+    align-items: center ;
+
+}
+.trustpilot img{
+ width: 200px;
+}
+.AWARD-WINNING{
+  font-style: italic;
+}
+.blog-heading{
+  text-align: center;
+  font-size: 70px;
+  font-weight: bolder ;
+  padding: 20px;
+
+}
+.star-gold{
+      display: flex;
+       width: 20px;
+       align-items: center;
+       justify-content: center;
+}
+.star-gold img{
+  width: 40px;
+   align-items: center;
+}
+.jesmim-r{
+    display: flex;
+    padding: 20px;
+    font-weight: bold;
+}
+.jesmim-r img {
+  width: 30px;
+}
+.jesmin-certify{
+ font-style: italic;
+ 
+}
+
+.education{
+    padding: 20px 100px;
+      background-color: #0097E1;
+      text-align: center;
+     justify-items: center;
+      border-radius: 10px;
+      color: white;
+      font-weight: bold;
+      font-size: 50px;
+      margin: 15px;
+
+} */
